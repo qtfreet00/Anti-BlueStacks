@@ -38,6 +38,6 @@ static int is_file_v1_exists(const char *path) {
 
 ```
 
-##### 检测的均为同一文件 `/data/.bluestacks.prop`，通过cd命令绕过它的强规则匹配，此方法同样可以作用于IOS的越狱屏蔽检测，也有很好的效果
+##### 检测的均为同一文件 `/data/.bluestacks.prop`，通过cd命令绕过它的强规则匹配，此方法同样可以作用于IOS的越狱屏蔽检测以及其他的反模拟器检测，也有很好的效果
 
 
