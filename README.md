@@ -38,6 +38,8 @@ static int is_file_v1_exists(const char *path) {
 
 ```
 
+测试：下载工程中的app-debug.apk安装到bluestacks模拟器中，logcat过滤qtfreet00即可
+
 ##### 检测的均为同一文件 `/data/.bluestacks.prop`，通过cd命令绕过它的强规则匹配，此方法同样可以作用于IOS的越狱屏蔽检测以及其他的反模拟器检测，也有很好的效果
 
 
